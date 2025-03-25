@@ -18,7 +18,7 @@ This is a Django REST Framework (DRF)-based API for managing tasks. It allows us
 ```sh
 #Clone the repository
 
-git clone <repo-url>
+git clone https://github.com/AK47567/Task.git
 cd Task
 
 
