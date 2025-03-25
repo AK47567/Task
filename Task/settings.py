@@ -79,10 +79,10 @@ WSGI_APPLICATION = 'Task.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'assignment',
-        'USER': 'postgres',
-        'PASSWORD': 'admin',
-        'HOST': 'localhost',  # or your database host
+        'NAME': 'your_db_name',
+        'USER': 'your_db_user_name',
+        'PASSWORD': 'your_db_password',
+        'HOST': 'your_db_host',  # or your database host
         'PORT': '5432',  # default PostgreSQL port
     }
 }
